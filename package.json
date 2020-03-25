@@ -8,6 +8,7 @@
     "dblapi.js": "^2.3.0",
     "discord.js": "github:discordjs/discord.js",
     "dotenv": "^8.0.0"
+    "pm2": "^4.2.3"
   },
   "scripts": {
     "test": "echo \"Error: no test specified\" && exit 1",
